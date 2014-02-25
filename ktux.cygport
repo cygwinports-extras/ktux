@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="ktux"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Tux-in-a-Spaceship screen saver"
+DESCRIPTION="Part of the KDE desktop amusements suite"
